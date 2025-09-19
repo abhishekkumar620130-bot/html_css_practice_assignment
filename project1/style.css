@@ -1,0 +1,67 @@
+.navbar{display: flex;
+    justify-content: flex-start;
+    margin-left: 170px;
+}
+.menu{
+    display: flex;
+    gap: 40x;
+}
+ul li{
+    list-style: none;
+}
+nav button{
+    height: ;
+    width: ;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    margin: left 200px;
+}
+.navbar img{
+    height: ;
+    width: ;
+}
+.main_container{
+    display: flex;
+    margin-left: 170px;
+    margin-top: 40px;
+    gap: 10px;
+}
+.right_side img{
+    height: 400px;
+    width: 700px;
+}
+.left_side img{
+
+}
+.Heading p{
+    font-size: 40px;
+    font-weight: bolder;
+    color: blueviolet;
+}
+span{
+    color: royalblue;
+}
+.descripaton p{
+    color: gray;
+    font-size: 15px;
+    font-weight: bold;
+}
+.right_side{
+
+}
+.left_side button{
+    height: 40px;
+    width: 130px;
+    color: whitesmoke;
+    background-color: blueviolet;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+    margin-right: 200px;
+    border-radius: 12px;
+}
+.right_side img{
+    
+}
